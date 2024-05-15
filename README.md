@@ -1,6 +1,4 @@
-# Sql-project
-
-## SmeCompany
+# SmeCompany
 
 ## Overview
 This project includes SQL scripts for managing data in a fictional small-to-medium enterprise (SME) company. The scripts cover database creation, table management, data manipulation, retrieval, analysis, and basic stored procedures.
@@ -23,7 +21,7 @@ Tolulope Olarewaju
 
 ## Acknowledgement 
 1. Grateful to MySQL for providing a powerful and reliable relational database management system (RDBMS) that served as the foundation for this project.
-2. Grateful to AlexTheAnalyst (YouTube) and Mosh Hamedani (YouTube) that helped me deepen my understanding of SQL concepts and techniques.
+2. Grateful to AlexTheAnalyst (YouTube) and Mosh Hamedani (YouTube) who helped me deepen my understanding of SQL concepts and techniques.
 
 ## License 
 
