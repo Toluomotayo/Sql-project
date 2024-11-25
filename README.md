@@ -6,7 +6,7 @@ This project includes SQL scripts for managing data in a fictional small-to-medi
 ## Features
   + Database Creation: The project includes scripts to create a MySQL database named SMECompany.
   + Table Management: Various tables are created to manage customer, order, product, and employee information.
-  +  Data Manipulation: Scripts demonstrate operations for inserting, updating, deleting, and truncating data in tables.
+  + Data Manipulation: Scripts demonstrate operations for inserting, updating, deleting, and truncating data in tables.
   + Data Retrieval and Analysis: SQL queries are used to retrieve and analyze data, including filtering, sorting, and aggregation.
   + Stored Procedures: Basic stored procedures are created to perform simple data retrieval tasks.
   + Data Cleaning and Transformation: Operations for data cleaning, such as trimming whitespace and replacing values, are included.
