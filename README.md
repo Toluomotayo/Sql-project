@@ -1,29 +1,57 @@
-# SmeCompany
+# 🏢 SMECompany: End-to-End SQL Practice Project
 
-## Overview
-This project includes SQL scripts for managing data in a fictional small-to-medium enterprise (SME) company. The scripts cover database creation, table management, data manipulation, retrieval, analysis, and basic stored procedures.
+This project contains a comprehensive set of SQL scripts designed to simulate real-world data operations for a fictional small-to-medium enterprise (SME). It covers database creation, data manipulation, joins, filtering, aggregation, views, stored procedures, and data cleaning—ideal for strengthening practical SQL skills.
 
-## Features
-  + Database Creation: The project includes scripts to create a MySQL database named SMECompany.
-  + Table Management: Various tables are created to manage customer, order, product, and employee information.
-  + Data Manipulation: Scripts demonstrate operations for inserting, updating, deleting, and truncating data in tables.
-  + Data Retrieval and Analysis: SQL queries are used to retrieve and analyze data, including filtering, sorting, and aggregation.
-  + Stored Procedures: Basic stored procedures are created to perform simple data retrieval tasks.
-  + Data Cleaning and Transformation: Operations for data cleaning, such as trimming whitespace and replacing values, are included.
+## 📊 Project Overview
+The goal of this project was to build a fully functional SQL-based system that manages customer, order, employee, and product data for a fictional SME. It demonstrates CRUD operations, joins, analytical queries, and procedural SQL, making it a perfect end-to-end learning and portfolio project.
 
-## Usage
-+ Execute the SQL scripts in a MySQL environment to create and populate the database and tables.
-+ Use the provided SQL queries to perform various data manipulation, retrieval, and analysis tasks.
-+ Customize the scripts as needed for specific requirements or additional functionality.
+## 👩‍💻 My Role
+I designed and implemented the entire project structure from scratch, wrote optimized SQL scripts, simulated realistic business scenarios, and applied data cleaning and transformation best practices.
 
-## Contributor
-Tolulope Olarewaju
+## ⚙️ Features
 
-## Acknowledgement 
-+ Grateful to MySQL for providing a powerful and reliable relational database management system (RDBMS) that served as the foundation for this project.
-+ Grateful to AlexTheAnalyst (YouTube) and Mosh Hamedani (YouTube) who helped me deepen my understanding of SQL concepts and techniques.
+- **Database Creation:** Set up a MySQL database `SMECompany`.
+- **Customer Management:** Insert, update, delete, and query customer data.
+- **Order Processing:** Simulate purchases, calculate discounts, and apply filters.
+- **Product Inventory:** Manage inventory by category, filter with regex, and analyze price trends.
+- **Employee Records:** Maintain employee data and perform role-based grouping and hiring analysis.
+- **Joins & CTEs:** Perform multiple types of joins, aggregations, and common table expressions.
+- **Window Functions:** Use `OVER()` for running totals and customer segmentation.
+- **Stored Procedures:** Automate tasks like customer-order inserts and view updates.
+- **Temporary Tables:** Use temporary structures for quick transformations and insights.
+- **Data Cleaning:** Trim whitespaces, fix formatting issues, apply casing rules, and substring extractions.
 
-## License 
+## 🛠 Tools & Technologies Used
+- **MySQL** – For all relational database operations
+- **SQL (DDL, DML, DQL, DCL)** – For defining, manipulating, querying, and securing data
 
-## Contact
-For questions or feedback, please contact olarewajutolulope26@gmail.com
+## 🚀 Outcomes
+- Simulated real-life company operations with realistic datasets
+- Applied advanced SQL logic like `CASE`, `REGEXP`, `CTEs`, `HAVING`, and window functions
+- Created reusable stored procedures and automated logic flows
+- Cleaned and standardized messy data entries using SQL string functions
+
+## 📌 Key Learning Points
+| Challenge                              | Solution                                                   |
+|----------------------------------------|------------------------------------------------------------|
+| Creating realistic datasets             | Designed varied and structured mock records                |
+| Handling messy text data               | Used `TRIM`, `REPLACE`, `LOWER/UPPER`, and `SUBSTRING`     |
+| Analyzing sales by segment             | Implemented `CASE` logic and window functions              |
+| Automating queries                     | Wrote and executed custom `STORED PROCEDURES`              |
+| Joining complex tables                 | Mastered various `JOIN` strategies and CTE usage           |
+
+## 📥 How to Use
+- Clone the repo and run the `.sql` scripts in a MySQL-compatible environment (like MySQL Workbench or phpMyAdmin).
+- Follow the script order: create database → tables → insert data → analysis → procedures.
+- Modify the queries to fit different business use cases or extend the database with new tables.
+
+## 👤 Contributor
+**Tolulope Olarewaju**  
+📧 olarewajutolulope26@gmail.com
+
+## 🙏 Acknowledgements
+Grateful to **MySQL** for its powerful relational database capabilities.  
+Special thanks to **AlexTheAnalyst** and **Mosh Hamedani** on YouTube, whose tutorials helped reinforce my understanding of SQL fundamentals and business applications.
+
+## 📜 License
+This project is open for educational and portfolio use only. Feel free to fork and modify for learning purposes.
