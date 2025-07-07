@@ -1,6 +1,6 @@
-# 🏢 SMECompany: End-to-End SQL Practice Project
+# 🏢 SMECompany: End-to-End SQL Project
 
-This project contains a comprehensive set of SQL scripts designed to simulate real-world data operations for a fictional small-to-medium enterprise (SME). It covers database creation, data manipulation, joins, filtering, aggregation, views, stored procedures, and data cleaning—ideal for strengthening practical SQL skills.
+This project contains a comprehensive set of SQL scripts designed to simulate real-world data operations for a small-to-medium enterprise (SME). It covers database creation, data manipulation, joins, filtering, aggregation, views, stored procedures, and data cleaning—ideal for strengthening practical SQL skills.
 
 ## 📊 Project Overview
 The goal of this project was to build a fully functional SQL-based system that manages customer, order, employee, and product data for a fictional SME. It demonstrates CRUD operations, joins, analytical queries, and procedural SQL, making it a perfect end-to-end learning and portfolio project.
