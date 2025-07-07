@@ -50,8 +50,11 @@ I designed and implemented the entire project structure from scratch, wrote opti
 📧 olarewajutolulope26@gmail.com
 
 ## 🙏 Acknowledgements
-Grateful to **MySQL** for its powerful relational database capabilities.  
-Special thanks to **AlexTheAnalyst** and **Mosh Hamedani** on YouTube, whose tutorials helped reinforce my understanding of SQL fundamentals and business applications.
+- Grateful to **MySQL** for its powerful relational database capabilities.  
+- Special thanks to **AlexTheAnalyst** and **Mosh Hamedani** on YouTube, whose tutorials helped reinforce my understanding of SQL fundamentals and business applications.
 
 ## 📜 License
 This project is open for educational and portfolio use only. Feel free to fork and modify for learning purposes.
+
+## 📬 Contact  
+For questions, feedback, or collaborations, please reach out: **olarewajutolulope26@gmail.com**
