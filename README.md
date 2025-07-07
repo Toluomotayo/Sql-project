@@ -47,7 +47,6 @@ I designed and implemented the entire project structure from scratch, wrote opti
 
 ## 👤 Contributor
 **Tolulope Olarewaju**  
-📧 olarewajutolulope26@gmail.com
 
 ## 🙏 Acknowledgements
 - Grateful to **MySQL** for its powerful relational database capabilities.  
